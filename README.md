@@ -1,1 +1,1 @@
-# Diabetes_Prediction_Regression
+# Machine Learning
